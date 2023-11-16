@@ -3,7 +3,7 @@ import '../../styles/medieval.css'
 export default function Medieval() {
   return (
     <>
-      <main className={`flex min-h-screen flex-col gap-4 p-10 py-24`}>
+      <main className={`flex min-h-screen flex-col gap-4 p-10 py-20`}>
         <h1 className="w-full  text-start text-4xl font-bold">
           Filosofia Medieval (V a XV d.c)
         </h1>
